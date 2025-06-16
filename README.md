@@ -19,9 +19,10 @@ This is the backend service for the **System Dashboard** — a real-time system 
 - **CORS** – To enable cross-origin requests
 
 **🧪 How to Run Locally** 
-Clone the repository:
+
 
 ```bash
+Clone the repository:
 git clone https://github.com/Nithya2900/System-dashboard-backend.git
 cd System-dashboard-backend
 

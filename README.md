@@ -25,7 +25,7 @@ Clone the repository:
 git clone https://github.com/Nithya2900/System-dashboard-backend.git
 cd System-dashboard-backend
 
-**Install dependencies:** 
+Install dependencies: 
 npm install
 
 Start the server:
